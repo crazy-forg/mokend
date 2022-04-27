@@ -2,13 +2,6 @@
   "Post": {
     "status": {"int":[200]},
     "message": {"string":["ok"]},
-    "data": {
-      "string":[
-      "title": { "string": {} },
-      "avatar": {
-        "regexp": "https://i\\.pravatar\\.cc/150?u=[0-9]{5}"
-      }
-      ]
-    }
+    
   }
 }
